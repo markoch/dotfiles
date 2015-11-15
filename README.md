@@ -90,4 +90,4 @@ The following sites are very helpful.
 ## License
 Copyright (c) 2015 Marco Koch
 
-MIT License, see [LICENSE.txt](LICENSE.TXT) for more details.
+MIT License, see [LICENSE.txt](LICENSE.txt) for more details.
