@@ -13,7 +13,7 @@ DOSKEY ....=cd ../..
 
 REM tools
 DOSKEY chrome="C:\Program Files\Google\Chrome\Application\chrome.exe"
-DOSKEY canary="C:\Users\Marco\AppData\Local\Google\Chrome SxS\Application\chrome.exe"
+DOSKEY canary="C:\Users\<your username>\AppData\Local\Google\Chrome SxS\Application\chrome.exe"
 DOSKEY st=sublime_text $*
 DOSKEY sublime=sublime_text $*
 
@@ -22,16 +22,16 @@ DOSKEY g=git $*
 DOSKEY ls=dir /B
 
 REM alias file handling
-DOSKEY alias=sublime_text d:\dev\tools\alias.cmd
-DOSKEY alias_copy=copy d:\dev\tools\alias.cmd %USERPROFILE%\Dropbox\dev\env
+DOSKEY alias=sublime_text c:\alias.cmd
+DOSKEY alias_copy=copy c:\alias.cmd %USERPROFILE%\Dropbox\dev\env
 
 REM ---------------------------------------------------------------------
 REM Common directories
 REM ---------------------------------------------------------------------
 REM development directories
-DOSKEY s=cd "D:\dev\git\server"
-DOSKEY c=cd "D:\dev\git\web"
-DOSKEY t=cd "D:\dev\git\web\test"
+DOSKEY s=cd "c:\src\server"
+DOSKEY c=cd "c:\src\web"
+DOSKEY t=cd "c:\src\web\test"
 
 REM standard directories
 DOSKEY h=cd "%USERPROFILE%\$*"
