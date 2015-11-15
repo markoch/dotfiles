@@ -7,11 +7,11 @@ I'm using the following environment for my daily frontend development on Windows
 
 ## Installation
 ### Alias configuration
-The *alias.cmd* file contains useful command shortcuts. To execute the *alias.cmd* file when opening a shell the following registry key must be set:
-HKEY_CURRENT_USER -> Software -> Microsoft -> Command Processor
+The `alias.cmd` file contains useful command shortcuts. To execute the `alias.cmd` file when opening a shell the following registry key must be set:
+`HKEY_CURRENT_USER -> Software -> Microsoft -> Command Processor`
 Create a new *String* value with the following values:
-Name: AutoRun
-Value: < path to your alias file > e.g. %USERPROFILE%\alias.cmd
+Name: `AutoRun`
+Value: < path to your alias file > e.g. `%USERPROFILE%\alias.cmd`
 
 More information:
 [Aliases in windows command prompt](http://stackoverflow.com/questions/20530996/aliases-in-windows-command-prompt)
@@ -42,7 +42,7 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 * Phix Color Schema
 
 ### Configuration
-The Sublime configuration files are located in the *sublime* folder. It contains the user settings, key-bindings and Markdown configuration files.
+The Sublime configuration files are located in the `sublime` folder. It contains the user settings, key-bindings and Markdown configuration files.
 
 ## Software
 **Version Control:**
@@ -84,10 +84,10 @@ Suggestions are [welcome](https://github.com/markoch/dotfiles/issues)!
 
 ## Credits
 The following sites are very helpful.
-* [dotfiles.github.io](https://dotfiles.github.io/) Your unofficial guide to dotfiles on GitHub.
+* [dotfiles.github.io](https://dotfiles.github.io/) Your unofficial guide to dotfiles on GitHub
 * [gitignore on GitHub](https://github.com/github/gitignore) A collection of useful .gitignore templates
 
 ## License
 Copyright (c) 2015 Marco Koch
 
-MIT License, see LICENSE.txt for more details.
+MIT License, see [LICENSE.txt](LICENSE.TXT) for more details.
