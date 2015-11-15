@@ -18,6 +18,7 @@ More information:
 
 ## Sublime
 I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
+
 ### Sublime packages
 **General development packages:**
 * AutoFileName
@@ -27,6 +28,7 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 * GutterColor
 * JavaScriptNext
 * JSCSFormatter
+* Package Control
 * SideBarEnhancements
 * TrailingSpaces
 
