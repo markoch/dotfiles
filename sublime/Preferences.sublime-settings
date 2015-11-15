@@ -1,0 +1,41 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"default_encoding": "UTF-8",
+	"draw_centered": false,
+	"ensure_newline_at_eof_on_save": false,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"Desktop.ini",
+		"*.pyc",
+		"._*",
+		"Thumbs.db"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 13,
+	"highlight_line": true,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Theme - SoDaReloaded",
+		"Vintage"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"overlay_scroll_bars": "enabled",
+	"show_encoding": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+    "translate_tabs_to_spaces": true,
+	"word_wrap": "false"
+}

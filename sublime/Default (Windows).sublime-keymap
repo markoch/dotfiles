@@ -1,0 +1,13 @@
+[
+    //add new shortcuts
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
+    { "keys": ["ctrl+b"], "command": "build" },
+
+    //fix comment shortcuts for windows
+    { "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+
+    //swap paste and paste with indent
+    { "keys": ["ctrl+v"], "command": "paste_and_indent"},
+    { "keys": ["ctrl+shift+v"], "command": "paste"}
+]
