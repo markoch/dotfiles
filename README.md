@@ -78,6 +78,7 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 **Tools:**
 * [AutoHotKey](https://www.autohotkey.com/)
 * [Browsersync](http://www.browsersync.io/)
+* [Chocolatey] (https://chocolatey.org/)
 * [Cmder](http://cmder.net/)
 * [Node.js] (https://nodejs.org/)
 * [PlatinumSearcher](https://github.com/monochromegane/the_platinum_searcher)
