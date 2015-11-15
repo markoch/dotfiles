@@ -44,31 +44,31 @@ The Sublime configuration files are located in the *sublime* folder. It contains
 I'm using the following software for development.
 
 **Version Control:**
-Git
-TortoiseGit
+* Git
+* TortoiseGit
 
 **Web Browser:**
-Google Chrome
-Google Chrome Canary Build
-Mozilla Firefox
+* Google Chrome
+* Google Chrome Canary Build
+* Mozilla Firefox
 
 **Google Chrome Extensions:**
-CacheKiller
-WhatFont
-ColorZilla
-PageLiner
-Page Ruler
+* CacheKiller
+* WhatFont
+* ColorZilla
+* PageLiner
+* Page Ruler
 
 **Programming Languages:**
-Python
-Ruby
+* Python
+* Ruby
 
 **Java:**
-JDK
-Eclipse
+* JDK
+* Eclipse
 
 **Build Tools:**
-Maven
+* Maven
 
 **Tools:**
 [AutoHotKey](https://www.autohotkey.com/)
