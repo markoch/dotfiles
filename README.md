@@ -1,4 +1,4 @@
-# dotfiles
+# [Marco](https://github.com/markoch)'s dotfiles
 Marco's shell, git and sublime config files.
 
 ## Installation
@@ -77,8 +77,14 @@ I'm using the following software for development.
 * [PlatinumSearcher](https://github.com/monochromegane/the_platinum_searcher)
 * [Sublime Text](http://www.sublimetext.com/)
 
+## Feedback
+Suggestions are [welcome](https://github.com/markoch/dotfiles/issues)!
+
 ## Credits
 The following sites are very helpful.
 * [dotfiles.github.io](https://dotfiles.github.io/) Your unofficial guide to dotfiles on GitHub.
 * [gitignore on GitHub](https://github.com/github/gitignore) A collection of useful .gitignore templates
 
+## License
+Copyright (c) 2015 Marco Koch
+MIT License, see LICENSE.txt for more details.
