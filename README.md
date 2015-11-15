@@ -25,6 +25,7 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 * DocBlockr
 * GitGutter
 * GutterColor
+* JavaScriptNext
 * JSCSFormatter
 * SideBarEnhancements
 * TrailingSpaces
