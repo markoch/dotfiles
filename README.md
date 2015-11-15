@@ -71,15 +71,14 @@ I'm using the following software for development.
 * Maven
 
 **Tools:**
-[AutoHotKey](https://www.autohotkey.com/)
-[Browsersync](http://www.browsersync.io/)
-[Cmder](http://cmder.net/)
-[PlatinumSearcher](https://github.com/monochromegane/the_platinum_searcher)
-[Sublime Text](http://www.sublimetext.com/)
+* [AutoHotKey](https://www.autohotkey.com/)
+* [Browsersync](http://www.browsersync.io/)
+* [Cmder](http://cmder.net/)
+* [PlatinumSearcher](https://github.com/monochromegane/the_platinum_searcher)
+* [Sublime Text](http://www.sublimetext.com/)
 
 ## Credits
 The following sites are very helpful.
-[dotfiles.github.io](https://dotfiles.github.io/) Your unofficial guide to dotfiles on GitHub.
-[gitignore on GitHub](https://github.com/github/gitignore) A collection of useful .gitignore templates
-
+* [dotfiles.github.io](https://dotfiles.github.io/) Your unofficial guide to dotfiles on GitHub.
+* [gitignore on GitHub](https://github.com/github/gitignore) A collection of useful .gitignore templates
 
