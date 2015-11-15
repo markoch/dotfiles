@@ -1,6 +1,10 @@
 # [Marco](https://github.com/markoch)'s dotfiles
 Marco's shell, git and sublime config files.
 
+I'm using the following environment for my daily development.
+
+:warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
+
 ## Installation
 ### Alias configuration
 The *alias.cmd* file contains useful command shortcuts. To execute the *alias.cmd* file when opening a shell the following registry key must be set:
@@ -38,18 +42,16 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 * Phix Color Schema
 
 ### Configuration
-The Sublime configuration files are located in the *sublime* folder. It contains the User Settings, Key-Bindings and Markdown configuration files.
+The Sublime configuration files are located in the *sublime* folder. It contains the user settings, key-bindings and Markdown configuration files.
 
 ## Software
-I'm using the following software for development.
-
 **Version Control:**
 * Git
 * TortoiseGit
 
 **Web Browser:**
 * Google Chrome
-* Google Chrome Canary Build
+* Google Chrome - Canary Build
 * Mozilla Firefox
 
 **Google Chrome Extensions:**
