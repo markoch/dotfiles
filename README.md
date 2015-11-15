@@ -87,4 +87,5 @@ The following sites are very helpful.
 
 ## License
 Copyright (c) 2015 Marco Koch
+
 MIT License, see LICENSE.txt for more details.
