@@ -1,8 +1,6 @@
 # dotfiles
 Marco's shell, git and sublime config files.
 
-I'm using the following setup for my JavaScript and Java development on Windows OS.
-
 ## Installation
 ### Alias configuration
 The *alias.cmd* file contains useful command shortcuts. To execute the *alias.cmd* file when opening a shell the following registry key must be set:
@@ -18,26 +16,26 @@ More information:
 I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 ### Sublime packages
 **General development packages:**
-AutoFileName
-BracketHighlighter
-DocBlockr
-GitGutter
-GutterColor
-JSCSFormatter
-SideBarEnhancements
-TrailingSpaces
+* AutoFileName
+* BracketHighlighter
+* DocBlockr
+* GitGutter
+* GutterColor
+* JSCSFormatter
+* SideBarEnhancements
+* TrailingSpaces
 
 **Lint tools:**
-SublimeLinter
-SublimeLinter-JSHint
-SublimeLinter-contribute-eslint
-SublimeLinter-CSSLinter
+* SublimeLinter
+* SublimeLinter-JSHint
+* SublimeLinter-contribute-eslint
+* SublimeLinter-CSSLinter
 
 **Themes and Color Schema:**
-Materialize
-Flatland
-Ciapre color schema
-Phix Color Schema
+* Materialize
+* Flatland
+* Ciapre color schema
+* Phix Color Schema
 
 ### Configuration
 The Sublime configuration files are located in the *sublime* folder. It contains the User Settings, Key-Bindings and Markdown configuration files.
