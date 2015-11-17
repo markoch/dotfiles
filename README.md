@@ -1,7 +1,7 @@
 # [Marco](https://github.com/markoch)'s dotfiles
 Marco's shell, git and sublime config files.
 
-I'm using the following environment for my front end development with JavaScript and Java on Windows OS.
+I'm using the following environment for my front end development with JavaScript on Windows OS.
 
 :warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
 
