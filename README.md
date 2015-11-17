@@ -20,44 +20,46 @@ More information:
 I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 
 ### Sublime packages
+**Package Control for Sublime**
+* [Package Control](https://packagecontrol.io/installation)
+
 **General development packages:**
-* AutoFileName
-* BracketHighlighter
-* DocBlockr
-* GitGutter
-* GutterColor
-* JavaScriptNext
-* JSCSFormatter
-* Package Control
-* SideBarEnhancements
-* TrailingSpaces
+* [AutoFileName](https://github.com/BoundInCode/AutoFileName)
+* [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
+* [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
+* [GitGutter](https://github.com/jisaacks/GitGutter)
+* [GutterColor](https://packagecontrol.io/packages/Gutter%20Color)
+* [JavaScriptNext](https://github.com/Benvie/JavaScriptNext.tmLanguage)
+* [JSCSFormatter](https://github.com/TheSavior/SublimeJSCSFormatter)
+* [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+* [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces)
 
 **Lint tools:**
-* SublimeLinter
-* SublimeLinter-JSHint
-* SublimeLinter-contribute-eslint
-* SublimeLinter-CSSLinter
+* [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
+* [SublimeLinter-JSHint](https://github.com/SublimeLinter/SublimeLinter-jshint)
+* [SublimeLinter-contribute-eslint](https://github.com/roadhump/SublimeLinter-eslint)
+* [SublimeLinter-CSSLinter](https://github.com/SublimeLinter/SublimeLinter-csslint)
 
 **Themes and Color Schema:**
-* Materialize
-* Flatland
-* Ciapre color schema
-* Phix Color Schema
+* [Material](https://github.com/equinusocio/material-theme)
+* [Flatland](https://github.com/thinkpixellab/flatland)
+* [Ciapre color schema](https://github.com/vinhnx/Ciapre.tmTheme)
+* [Phix Color Schema](https://github.com/stuartherbert/sublime-phix-color-scheme)
 
 ### Configuration
 The Sublime configuration files are located in the `sublime` folder. It contains the user settings, key-bindings and Markdown configuration files.
 
 ## Software
 **Version Control:**
-* Git
-* TortoiseGit
+* [Git](https://git-for-windows.github.io/)
+* [TortoiseGit](https://tortoisegit.org/)
 
 **Web Browser:**
-* Google Chrome
-* Google Chrome - Canary Build
-* Mozilla Firefox
+* [Google Chrome](https://www.google.de/chrome/browser/desktop/)
+* [Google Chrome - Canary Build](https://www.google.de/chrome/browser/canary.html)
+* [Mozilla Firefox](https://www.mozilla.org/de/firefox/new/)
 
-**Google Chrome Extensions:**
+**Chrome Extensions:**
 * CacheKiller
 * WhatFont
 * ColorZilla
@@ -65,22 +67,22 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * Page Ruler
 
 **Programming Languages:**
-* Python
-* Ruby
+* [Python](https://www.python.org/)
+* [Ruby](https://www.ruby-lang.org)
 
 **Java:**
-* JDK
-* Eclipse
+* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [Eclipse](https://eclipse.org/)
 
 **Build Tools:**
-* Maven
+* [Maven](https://maven.apache.org/)
 
 **Tools:**
 * [AutoHotKey](https://www.autohotkey.com/)
 * [Browsersync](http://www.browsersync.io/)
-* [Chocolatey] (https://chocolatey.org/)
+* [Chocolatey](https://chocolatey.org/)
 * [Cmder](http://cmder.net/)
-* [Node.js] (https://nodejs.org/)
+* [Node.js](https://nodejs.org/)
 * [PlatinumSearcher](https://github.com/monochromegane/the_platinum_searcher)
 * [Sublime Text](http://www.sublimetext.com/)
 
