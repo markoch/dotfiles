@@ -31,6 +31,8 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 * [GutterColor](https://packagecontrol.io/packages/Gutter%20Color)
 * [JavaScriptNext](https://github.com/Benvie/JavaScriptNext.tmLanguage)
 * [JSCSFormatter](https://github.com/TheSavior/SublimeJSCSFormatter)
+* [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)
+* [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces)
 
