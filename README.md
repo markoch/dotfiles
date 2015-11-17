@@ -72,7 +72,7 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [Maven](https://maven.apache.org/)
 
 **Tools:**
-* [AutoHotKey](https://www.autohotkey.com/)
+* [AutoHotKey](https://www.autohotkey.com/) with [AutoCorrect](https://www.autohotkey.com/download/AutoCorrect.ahk) script
 * [Browsersync](http://www.browsersync.io/)
 * [Chocolatey](https://chocolatey.org/)
 * [Cmder](http://cmder.net/)
