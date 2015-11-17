@@ -68,14 +68,6 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * PageLiner
 * Page Ruler
 
-**Programming Languages:**
-* [Python](https://www.python.org/)
-* [Ruby](https://www.ruby-lang.org)
-
-**Java:**
-* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-* [Eclipse](https://eclipse.org/)
-
 **Build Tools:**
 * [Maven](https://maven.apache.org/)
 
@@ -87,6 +79,11 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [Node.js](https://nodejs.org/)
 * [PlatinumSearcher](https://github.com/monochromegane/the_platinum_searcher)
 * [Sublime Text](http://www.sublimetext.com/)
+
+**Other programming languages:**
+* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [Python](https://www.python.org/)
+* [Ruby](https://www.ruby-lang.org)
 
 ## Feedback
 Suggestions are [welcome](https://github.com/markoch/dotfiles/issues)!
