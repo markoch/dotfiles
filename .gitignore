@@ -1,3 +1,5 @@
+# Describe common policies which files should be excluded from source control
+
 # Folder view configuration files
 .DS_Store
 Desktop.ini
@@ -8,3 +10,17 @@ Thumbs.db
 # Module files
 node_modules
 bower_components
+
+# Exclude all common build target folders
+bin/
+target/
+META-INF/
+.settings/
+
+# Java class files
+*.class
+
+# Eclipse files
+.project
+.classpath
+.pmd
