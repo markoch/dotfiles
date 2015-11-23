@@ -45,6 +45,9 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 * [SublimeLinter-contribute-eslint](https://github.com/roadhump/SublimeLinter-eslint)
 * [SublimeLinter-CSSLinter](https://github.com/SublimeLinter/SublimeLinter-csslint)
 
+**Font:**
+* [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+
 **Themes and Color Schema:**
 * [Material](https://github.com/equinusocio/material-theme)
 * [Flatland](https://github.com/thinkpixellab/flatland)
@@ -95,6 +98,7 @@ Suggestions are [welcome](https://github.com/markoch/dotfiles/issues)!
 The following sites are very helpful.
 * [dotfiles.github.io](https://dotfiles.github.io/) Your unofficial guide to dotfiles on GitHub
 * [gitignore on GitHub](https://github.com/github/gitignore) A collection of useful .gitignore templates
+* [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
 
 ## License
 Copyright (c) 2015 Marco Koch
