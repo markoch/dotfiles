@@ -6,10 +6,32 @@ I'm using the following environment for my front end development with JavaScript
 :warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
 
 ## Shortcuts
+General shortcuts:
 <table>
     <tr><td>Command</td><td>Description</td></tr>
-    <tr><td>..</td><td>Move one directory up</td></tr>
-    <tr><td>....</td><td>Move two directories up</td></tr>
+    <tr><td>..</td><td>Go one directory up</td></tr>
+    <tr><td>....</td><td>Go two directories up</td></tr>
+    <tr><td>h</td><td>Go to your home directory</td></tr>
+    <tr><td>db</td><td>Go to your Dropbox directory</td></tr>
+    <tr><td>alias</td><td>Edit the alias file</td></tr>
+    <tr><td>alias_copy</td><td>Copy alias file to Dropbox</td></tr>
+</table>
+
+Application shortcuts:
+<table>
+    <tr><td>Command</td><td>Description</td></tr>
+    <tr><td>chrome</td><td>Start Chrome browser</td></tr>
+    <tr><td>canary</td><td>Start Chrome Canary browser</td></tr>
+    <tr><td>g</td><td>git executable</td></tr>
+    <tr><td>ls</td><td>List directory content</td></tr>
+</table>
+
+Development shortcuts:
+<table>
+<tr><td>Command</td><td>Description</td></tr>
+<tr><td>s</td><td>Switch to your main directory of server source-code</td></tr>
+<tr><td>c</td><td>Switch to your main directory of client source-code</td></tr>
+<tr><td>t</td><td>Switch to your main directory of test source-code</td></tr>
 </table>
 
 ## Installation
