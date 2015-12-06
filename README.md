@@ -5,7 +5,7 @@ I'm using the following environment for my front end development with JavaScript
 
 :warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
 
-## Shortcuts
+### Shortcuts
 The following shortcuts are defined by the [alias.cmd](alias.cmd) script.
 
 General shortcuts:
