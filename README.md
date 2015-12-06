@@ -7,8 +7,9 @@ I'm using the following environment for my front end development with JavaScript
 
 ## Shortcuts
 <table>
-    <tr><td>*Command*</td><td>*Description*</td></tr>
-    <tr><td>`..`</td><td>Move one directory up</td></tr>
+    <tr><td>**Command**</td><td>**Description**</td></tr>
+    <tr><td>..</td><td>Move one directory up</td></tr>
+    <tr><td>....</td><td>Move two directories up</td></tr>
 </table>
 
 ## Installation
