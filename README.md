@@ -5,6 +5,12 @@ I'm using the following environment for my front end development with JavaScript
 
 :warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
 
+## Shortcuts
+<table>
+    <tr><td>*Command*</td><td>*Description*</td></tr>
+    <tr><td>`..`</td><td>Move one directory up</td></tr>
+</table>
+
 ## Installation
 ### Alias configuration
 The `alias.cmd` file contains useful command shortcuts. To execute the `alias.cmd` file when opening a shell the following registry key must be set:
