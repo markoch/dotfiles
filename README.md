@@ -6,9 +6,9 @@ I'm using the following environment for my front end development with JavaScript
 :warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
 
 ### Shortcuts
-The following shortcuts are defined by the [alias.cmd](alias.cmd) script.
+The following command shortcuts are defined by the [alias.cmd](alias.cmd) script.
 
-General shortcuts:
+General:
 <table>
     <tr><td>Command</td><td>Description</td></tr>
     <tr><td>..</td><td>Go one directory up</td></tr>
@@ -19,7 +19,7 @@ General shortcuts:
     <tr><td>alias_copy</td><td>Copy alias file to Dropbox</td></tr>
 </table>
 
-Application shortcuts:
+Application:
 <table>
     <tr><td>Command</td><td>Description</td></tr>
     <tr><td>chrome</td><td>Start Chrome browser</td></tr>
@@ -28,12 +28,23 @@ Application shortcuts:
     <tr><td>ls</td><td>List directory content</td></tr>
 </table>
 
-Development shortcuts:
+Development:
 <table>
 <tr><td>Command</td><td>Description</td></tr>
 <tr><td>s</td><td>Switch to your main directory of server source-code</td></tr>
 <tr><td>c</td><td>Switch to your main directory of client source-code</td></tr>
 <tr><td>t</td><td>Switch to your main directory of test source-code</td></tr>
+</table>
+
+Git:
+<table>
+<tr><td>Command</td><td>Description</td></tr>
+<tr><td>l</td><td>View history of the last commits</td></tr>
+<tr><td>s</td><td>View status in short format</td></tr>
+<tr><td>tags</td><td>Show all tags</td></tr>
+<tr><td>branches</td><td>Show all branches</td></tr>
+<tr><td>remotes</td><td>Show all remotes</td></tr>
+<tr><td>amend</td><td>Amend your changes to the last commit</td></tr>
 </table>
 
 ## Installation
