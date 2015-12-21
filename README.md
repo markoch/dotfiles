@@ -79,15 +79,15 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces)
 
-**Markdown:**
-* [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)
-* [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
-
 **Lint tools:**
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
 * [SublimeLinter-JSHint](https://github.com/SublimeLinter/SublimeLinter-jshint)
 * [SublimeLinter-contribute-eslint](https://github.com/roadhump/SublimeLinter-eslint)
 * [SublimeLinter-CSSLinter](https://github.com/SublimeLinter/SublimeLinter-csslint)
+
+**Markdown:**
+* [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)
+* [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 
 **Font:**
 * [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
