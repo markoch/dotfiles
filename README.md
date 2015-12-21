@@ -76,10 +76,12 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 * [GutterColor](https://packagecontrol.io/packages/Gutter%20Color)
 * [JavaScriptNext](https://github.com/Benvie/JavaScriptNext.tmLanguage)
 * [JSCSFormatter](https://github.com/TheSavior/SublimeJSCSFormatter)
-* [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)
-* [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces)
+
+**Markdown:**
+* [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)
+* [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 
 **Lint tools:**
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
@@ -116,8 +118,9 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * PageLiner
 * Page Ruler
 
-**Build Tools:**
-* [Maven](https://maven.apache.org/)
+**Task Runner:**
+* [Grunt](http://gruntjs.com//)
+* [Gulp](http://gulpjs.com/)
 
 **Tools:**
 * [AutoHotKey](https://www.autohotkey.com/) with [AutoCorrect](https://www.autohotkey.com/download/AutoCorrect.ahk) script
