@@ -113,10 +113,11 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 
 **Chrome Extensions:**
 * CacheKiller
-* WhatFont
 * ColorZilla
-* PageLiner
+* JSONView
 * Page Ruler
+* PageLiner
+* WhatFont
 
 **Task Runner:**
 * [Grunt](http://gruntjs.com//)
