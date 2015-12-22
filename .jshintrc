@@ -5,8 +5,9 @@
   "browser": true, // Web Browser (window, document, etc)
   "esnext": true, // true: Allow ES.next (ES6) syntax (ex: `const`)
   "globals": {
-    "jQuery": true,
-    "$": true,
+    "jQuery": false,
+    "$": false,
+    "angular": false
   },
   "globalstrict": true, // true: Allow global "use strict" (also enables 'strict')
   "quotmark": true, // Quotation mark consistency: true     : ensure whatever is used is consistent
