@@ -6,6 +6,7 @@
   "browser": true,
   "curly": true,
   "esnext": true,
+  "eqeqeq": true,
   "latedef": true,
   "globalstrict": true,
   "noarg": true,
