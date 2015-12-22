@@ -2,16 +2,21 @@
   // Details: https://github.com/victorporof/Sublime-JSHint#using-your-own-jshintrc-options
   // Example: https://github.com/jshint/jshint/blob/master/examples/.jshintrc
   // Documentation: http://www.jshint.com/docs/
-  "browser": true, // Web Browser (window, document, etc)
-  "esnext": true, // true: Allow ES.next (ES6) syntax (ex: `const`)
+  "bitwise": true,
+  "browser": true,
+  "curly": true,
+  "esnext": true,
+  "latedef": true,
+  "globalstrict": true,
+  "noarg": true,
+  "node": true,
+  "quotmark": true,
+  "undef": true,
+  "unused": true,
+  "strict": false,
   "globals": {
     "jQuery": false,
     "$": false,
     "angular": false
-  },
-  "globalstrict": true, // true: Allow global "use strict" (also enables 'strict')
-  "quotmark": true, // Quotation mark consistency: true     : ensure whatever is used is consistent
-  "undef": true, // true: Require all non-global variables to be declared (prevents global leaks)
-  "unused": true, // Unused variables: true : all variables, last function parameter
-  "strict": false // true: Requires all functions run in ES5 Strict Mode
+  }
 }
