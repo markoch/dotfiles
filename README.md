@@ -147,6 +147,6 @@ The following sites are very helpful.
 * [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
 
 ## License
-Copyright (c) 2015 Marco Koch
+Copyright (c) 2016 Marco Koch
 
 MIT License, see [LICENSE.txt](LICENSE.txt) for more details.
