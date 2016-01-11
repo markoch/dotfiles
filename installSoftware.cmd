@@ -1,5 +1,12 @@
 choco install google-chrome-x64
 choco install googlechrome.canary
 choco install chromedriver2
+choco install firefox
 choco install autohotkey.portable
 choco install nodejs.install
+choco install git
+choco install tortoisegit
+choco install cmder
+choco install python
+choco install ruby
+choco install rubygems
