@@ -106,11 +106,6 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [Git](https://git-for-windows.github.io/)
 * [TortoiseGit](https://tortoisegit.org/)
 
-**Web Browser:**
-* [Google Chrome](https://www.google.de/chrome/browser/desktop/)
-* [Google Chrome - Canary Build](https://www.google.de/chrome/browser/canary.html)
-* [Mozilla Firefox](https://www.mozilla.org/de/firefox/new/)
-
 **Task Runner:**
 * [Grunt](http://gruntjs.com//)
 * [Gulp](http://gulpjs.com/)
@@ -124,18 +119,23 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [PlatinumSearcher](https://github.com/monochromegane/the_platinum_searcher)
 * [Sublime Text](http://www.sublimetext.com/)
 
-**Other programming languages:**
-* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-* [Python](https://www.python.org/)
-* [Ruby](https://www.ruby-lang.org)
+**Web Browser:**
+* [Google Chrome](https://www.google.de/chrome/browser/desktop/)
+* [Google Chrome - Canary Build](https://www.google.de/chrome/browser/canary.html)
+* [Mozilla Firefox](https://www.mozilla.org/de/firefox/new/)
 
-## Chrome WebBrowser Extensions
+**Chrome WebBrowser Extensions**
 * CacheKiller
 * ColorZilla
 * JSONView
 * Page Ruler
 * PageLiner
 * WhatFont
+
+**Other programming languages:**
+* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [Python](https://www.python.org/)
+* [Ruby](https://www.ruby-lang.org)
 
 ## Feedback
 Suggestions are [welcome](https://github.com/markoch/dotfiles/issues)!
