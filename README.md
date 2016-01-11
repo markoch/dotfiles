@@ -111,14 +111,6 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [Google Chrome - Canary Build](https://www.google.de/chrome/browser/canary.html)
 * [Mozilla Firefox](https://www.mozilla.org/de/firefox/new/)
 
-**Chrome Extensions:**
-* CacheKiller
-* ColorZilla
-* JSONView
-* Page Ruler
-* PageLiner
-* WhatFont
-
 **Task Runner:**
 * [Grunt](http://gruntjs.com//)
 * [Gulp](http://gulpjs.com/)
@@ -136,6 +128,14 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [Python](https://www.python.org/)
 * [Ruby](https://www.ruby-lang.org)
+
+## Chrome WebBrowser Extensions
+* CacheKiller
+* ColorZilla
+* JSONView
+* Page Ruler
+* PageLiner
+* WhatFont
 
 ## Feedback
 Suggestions are [welcome](https://github.com/markoch/dotfiles/issues)!
