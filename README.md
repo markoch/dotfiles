@@ -1,11 +1,9 @@
-# [Marco](https://github.com/markoch)'s dotfiles
-Marco's shell, git and sublime config files.
-
-I'm using the following environment for my front end development with JavaScript on Windows OS.
+# [Marco](https://github.com/markoch)'s Frontend Development Environment
+I'm using the following environment for my front end development on Windows OS.
 
 :warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
 
-### Shortcuts
+### Alias
 The following command shortcuts are defined by the [alias.cmd](alias.cmd) script.
 
 General:
@@ -47,8 +45,7 @@ Git:
 <tr><td>git amend</td><td>Amend your changes to the last commit</td></tr>
 </table>
 
-## Installation
-### Alias configuration
+#### Alias configuration
 The `alias.cmd` file contains useful command shortcuts. To execute the `alias.cmd` file when opening a shell the following registry key must be set:
 `HKEY_CURRENT_USER -> Software -> Microsoft -> Command Processor`
 Create a new *String* value with the following values:
@@ -57,9 +54,6 @@ Value: < path to your alias file > e.g. `%USERPROFILE%\alias.cmd`
 
 More information:
 [Aliases in windows command prompt](http://stackoverflow.com/questions/20530996/aliases-in-windows-command-prompt)
-
-### Software
-To automatically install all listed Software, please install [Chocolatey](https://chocolatey.org/) and run [installSoftware.cmd](setup/installSoftware.cmd) script.
 
 ## Sublime
 I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
@@ -143,6 +137,9 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [Python](https://www.python.org/)
 * [Ruby](https://www.ruby-lang.org)
+
+#### Software
+To automatically install all listed Software, please install [Chocolatey](https://chocolatey.org/) and run [installSoftware.cmd](setup/installSoftware.cmd) script.
 
 ## Feedback
 Suggestions are [welcome](https://github.com/markoch/dotfiles/issues)!
