@@ -59,7 +59,7 @@ More information:
 [Aliases in windows command prompt](http://stackoverflow.com/questions/20530996/aliases-in-windows-command-prompt)
 
 ### Software
-To automatically install all listed Software, please install [Chocolatey](https://chocolatey.org/) and run [./setup/installSoftware.cmd](installSoftware.cmd) script.
+To automatically install all listed Software, please install [Chocolatey](https://chocolatey.org/) and run [installSoftware.cmd](setup/installSoftware.cmd) script.
 
 ## Sublime
 I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
