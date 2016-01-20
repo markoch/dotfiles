@@ -102,23 +102,29 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 The Sublime configuration files are located in the `sublime` folder. It contains the user settings, key-bindings and Markdown configuration files.
 
 ## Software
-**Version Control:**
-* [Git](https://git-for-windows.github.io/)
-* [TortoiseGit](https://tortoisegit.org/)
+**Framework:**
+* [Angular.js](https://angularjs.org/)
+* [React](https://facebook.github.io/react/)
+
+**Package Manager:**
+* [Bower](http://bower.io/)
+* [Chocolatey](https://chocolatey.org/)
 
 **Task Runner:**
 * [Grunt](http://gruntjs.com//)
 * [Gulp](http://gulpjs.com/)
 
-**Tools:**
+**Tool:**
 * [AutoHotKey](https://www.autohotkey.com/) with [AutoCorrect](https://www.autohotkey.com/download/AutoCorrect.ahk) script
-* [Bower](http://bower.io/)
 * [Browsersync](http://www.browsersync.io/)
-* [Chocolatey](https://chocolatey.org/)
 * [Cmder](http://cmder.net/)
 * [Node.js](https://nodejs.org/)
 * [PlatinumSearcher](https://github.com/monochromegane/the_platinum_searcher)
 * [Sublime Text](http://www.sublimetext.com/)
+
+**Version Control:**
+* [Git](https://git-for-windows.github.io/)
+* [TortoiseGit](https://tortoisegit.org/)
 
 **Web Browser:**
 * [Google Chrome](https://www.google.de/chrome/browser/desktop/)
