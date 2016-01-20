@@ -22,9 +22,9 @@ General:
 Application:
 <table>
     <tr><td>Command</td><td>Description</td></tr>
-    <tr><td>chrome</td><td>Start Chrome browser</td></tr>
-    <tr><td>canary</td><td>Start Chrome Canary browser</td></tr>
-    <tr><td>g</td><td>git executable</td></tr>
+    <tr><td>chrome</td><td>Chrome browser</td></tr>
+    <tr><td>canary</td><td>Chrome Canary browser</td></tr>
+    <tr><td>g</td><td>git</td></tr>
     <tr><td>ls</td><td>List directory content</td></tr>
 </table>
 
@@ -39,12 +39,12 @@ Development:
 Git:
 <table>
 <tr><td>Command</td><td>Description</td></tr>
-<tr><td>l</td><td>View history of the last commits</td></tr>
-<tr><td>s</td><td>View status in short format</td></tr>
-<tr><td>tags</td><td>Show all tags</td></tr>
-<tr><td>branches</td><td>Show all branches</td></tr>
-<tr><td>remotes</td><td>Show all remotes</td></tr>
-<tr><td>amend</td><td>Amend your changes to the last commit</td></tr>
+<tr><td>git l</td><td>View history of the last commits</td></tr>
+<tr><td>git s</td><td>View status in short format</td></tr>
+<tr><td>git tags</td><td>Show all tags</td></tr>
+<tr><td>git branches</td><td>Show all branches</td></tr>
+<tr><td>git remotes</td><td>Show all remotes</td></tr>
+<tr><td>git amend</td><td>Amend your changes to the last commit</td></tr>
 </table>
 
 ## Installation
