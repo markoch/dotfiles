@@ -139,7 +139,7 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [Ruby](https://www.ruby-lang.org)
 
 #### Software
-To automatically install all listed Software, please install [Chocolatey](https://chocolatey.org/) and run [installSoftware.cmd](setup/installSoftware.cmd) script.
+To automatically install all listed Windows software, please install [Chocolatey](https://chocolatey.org/) and run [installSoftware.cmd](setup/installSoftware.cmd) script.
 
 ## Feedback
 Suggestions are [welcome](https://github.com/markoch/dotfiles/issues)!
