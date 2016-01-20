@@ -31,9 +31,9 @@ Application:
 Development:
 <table>
 <tr><td>Command</td><td>Description</td></tr>
-<tr><td>s</td><td>Switch to your main directory of server source-code</td></tr>
-<tr><td>c</td><td>Switch to your main directory of client source-code</td></tr>
-<tr><td>t</td><td>Switch to your main directory of test source-code</td></tr>
+<tr><td>s</td><td>Change current directory to server source-code</td></tr>
+<tr><td>c</td><td>Change current directory to client source-code</td></tr>
+<tr><td>t</td><td>Change current directory to test source-code</td></tr>
 </table>
 
 Git:
