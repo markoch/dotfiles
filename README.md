@@ -96,6 +96,11 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 The Sublime configuration files are located in the `sublime` folder. It contains the user settings, key-bindings and Markdown configuration files.
 
 ## Software
+**CSS:**
+* [Bootstrap](http://getbootstrap.com/css/)
+* [Less](http://lesscss.org/)
+* [Sass](http://sass-lang.com/)
+
 **Framework:**
 * [Angular.js](https://angularjs.org/)
 * [React](https://facebook.github.io/react/)
@@ -104,8 +109,11 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [Bower](http://bower.io/)
 * [Chocolatey](https://chocolatey.org/)
 
+**Scaffolding:**
+* [Yeoman](http://yeoman.io/)
+
 **Task Runner:**
-* [Grunt](http://gruntjs.com//)
+* [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
 
 **Tool:**
@@ -138,8 +146,8 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [Python](https://www.python.org/)
 * [Ruby](https://www.ruby-lang.org)
 
-#### Software
-To automatically install all listed Windows software, please install [Chocolatey](https://chocolatey.org/) and run [installSoftware.cmd](setup/installSoftware.cmd) script.
+#### Installation
+To automatically install all listed native Windows software, please install [Chocolatey](https://chocolatey.org/) and run [installSoftware.cmd](setup/installSoftware.cmd) script.
 
 ## Feedback
 Suggestions are [welcome](https://github.com/markoch/dotfiles/issues)!
