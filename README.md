@@ -75,6 +75,7 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 
 **Lint tools:**
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
+* [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint)
 * [SublimeLinter-JSHint](https://github.com/SublimeLinter/SublimeLinter-jshint)
 * [SublimeLinter-contribute-eslint](https://github.com/roadhump/SublimeLinter-eslint)
 * [SublimeLinter-CSSLinter](https://github.com/SublimeLinter/SublimeLinter-csslint)
@@ -157,6 +158,7 @@ The following sites are very helpful.
 * [dotfiles.github.io](https://dotfiles.github.io/) Your unofficial guide to dotfiles on GitHub
 * [gitignore on GitHub](https://github.com/github/gitignore) A collection of useful .gitignore templates
 * [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
+* [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
 
 ## License
 Copyright (c) 2016 Marco Koch
