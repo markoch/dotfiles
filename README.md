@@ -122,6 +122,7 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [Browsersync](http://www.browsersync.io/)
 * [Cmder](http://cmder.net/)
 * [Node.js](https://nodejs.org/)
+* [Node Version Manager (nvm) for Windows](https://github.com/coreybutler/nvm-windows)
 * [PlatinumSearcher](https://github.com/monochromegane/the_platinum_searcher)
 * [Sublime Text](http://www.sublimetext.com/)
 
