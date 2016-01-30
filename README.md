@@ -88,6 +88,7 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 * [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
 **Themes and Color Schema:**
+* [itg.flat](https://github.com/itsthatguy/theme-itg-flat)
 * [Material](https://github.com/equinusocio/material-theme)
 * [Flatland](https://github.com/thinkpixellab/flatland)
 * [Ciapre color schema](https://github.com/vinhnx/Ciapre.tmTheme)
@@ -106,6 +107,10 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [Angular.js](https://angularjs.org/)
 * [React](https://facebook.github.io/react/)
 
+**Hybrid:**
+* [Cordova](https://cordova.apache.org/)
+* [Ionic](http://ionicframework.com/)
+
 **Package Manager:**
 * [Bower](http://bower.io/)
 * [Chocolatey](https://chocolatey.org/)
@@ -116,6 +121,10 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 **Task Runner:**
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
+
+**Testing:**
+* [Karma](https://karma-runner.github.io)
+* [Protractor](https://angular.github.io/protractor/#/)
 
 **Tool:**
 * [AutoHotKey](https://www.autohotkey.com/) with [AutoCorrect](https://www.autohotkey.com/download/AutoCorrect.ahk) script
