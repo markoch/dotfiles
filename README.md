@@ -141,16 +141,17 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 
 **Web Browser:**
 * [Google Chrome](https://www.google.de/chrome/browser/desktop/)
-* [Google Chrome - Canary Build](https://www.google.de/chrome/browser/canary.html)
+* [Google Chrome - Canary Build](h[ttps://www.google.de/chrome/browser/canary.html)
 * [Mozilla Firefox](https://www.mozilla.org/de/firefox/new/)
 
 **Chrome WebBrowser Extensions**
-* CacheKiller
-* ColorZilla
-* JSONView
-* Page Ruler
-* PageLiner
-* WhatFont
+* [CacheKiller](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap)
+* [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+* [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn)
+* [PageLiner](https://chrome.google.com/webstore/detail/pageliner/nepakmljodobhlbbkpobblnifmhclemh?hl=de)
+* [Responsive Web Design Tester](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg)
+* [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
 **Other programming languages:**
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
