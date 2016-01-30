@@ -168,7 +168,7 @@ The following sites are very helpful.
 * [dotfiles.github.io](https://dotfiles.github.io/) Your unofficial guide to dotfiles on GitHub
 * [gitignore on GitHub](https://github.com/github/gitignore) A collection of useful .gitignore templates
 * [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
-* [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
+* [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/featured)
 
 ## License
 Copyright (c) 2016 Marco Koch
