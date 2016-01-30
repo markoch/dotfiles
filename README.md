@@ -140,8 +140,8 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [TortoiseGit](https://tortoisegit.org/)
 
 **Web Browser:**
-* [Google Chrome](https://www.google.de/chrome/browser/desktop/)
-* [Google Chrome - Canary Build](h[ttps://www.google.de/chrome/browser/canary.html)
+* [Google Chrome](https://www.google.com/chrome/browser/desktop/)
+* [Google Chrome - Canary Build](https://www.google.com/chrome/browser/canary.html)
 * [Mozilla Firefox](https://www.mozilla.org/de/firefox/new/)
 
 **Chrome WebBrowser Extensions**
