@@ -3,7 +3,7 @@ I'm using the following environment for my front end development on Windows OS.
 
 :warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
 
-![Sublime editor](/doc/sublime.jpg)
+![Sublime editor](https://raw.githubusercontent.com/markoch/frontend-dev-env/master/doc/cmder.png)
 ![Cmder](/doc/cmder.jpg)
 
 ## Alias
