@@ -4,8 +4,11 @@ I'm using the following environment for my front end development on Windows OS.
 :warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
 
 Sublime Text 3:
+
 ![Sublime editor](https://raw.githubusercontent.com/markoch/frontend-dev-env/master/doc/sublime.png)
+
 Cmder:
+
 ![Cmder](https://raw.githubusercontent.com/markoch/frontend-dev-env/master/doc/cmder.png)
 
 ## Alias
