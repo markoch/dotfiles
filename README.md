@@ -188,7 +188,7 @@ The following sites are very helpful.
 * [gitignore on GitHub](https://github.com/github/gitignore) A collection of useful .gitignore templates
 * [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
 * [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/featured)
-* [Plaintext Productivity](http://plaintext-productivity.net/)
+* [Plaintext Productivity](http://plaintext-productivity.net/) Windows productivity tricks and tips
 
 ## License
 Copyright (c) 2016 Marco Koch
