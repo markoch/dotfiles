@@ -59,7 +59,8 @@ More information:
 I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 
 ### Command shortcuts
-The following changes and fixed are applied.
+The following changes and fixes are applied.
+
 <table>
 <tr><td>Command</td><td>Description</td></tr>
 <tr><td>alt + m</td><td>Show markdown preview</td></tr>
@@ -69,7 +70,7 @@ The following changes and fixed are applied.
 <tr><td>ctrl + v</td><td>Fix paste shortcut</td></tr>
 <tr><td>ctrl + shift + v</td><td>Fix paste with indent shortcut</td></tr>
 </table>
-6
+
 ### Sublime packages
 **Package Control for Sublime**
 * [Package Control](https://packagecontrol.io/installation)
@@ -110,7 +111,7 @@ The following changes and fixed are applied.
 The Sublime configuration files are located in the `sublime` folder. It contains the user settings, key-bindings and Markdown configuration files. To install all the packages you have to first install [Package Control](https://packagecontrol.io/installation) and afterwards follow the installation instructions of the Sublime packages mentioned at their websites.
 
 ## Windows Software
-I am often using the following Windows software mentioned below.
+I am often using the following Windows software.
 
 **General:**
 * [AutoHotKey](https://www.autohotkey.com/) with [AutoCorrect](https://www.autohotkey.com/download/AutoCorrect.ahk) script
@@ -146,9 +147,7 @@ I am often using the following Windows software mentioned below.
 * [Ruby](https://www.ruby-lang.org)
 
 #### Installation
-To automatically install *all* listed native Windows software, please install [Chocolatey](https://chocolatey.org/) and run [installSoftware.cmd](setup/installSoftware.cmd) script.
-
-The Chrome web browser extensions must be installed manually.
+To automatically install *all* listed native Windows software, please install [Chocolatey](https://chocolatey.org/) and run [installSoftware.cmd](setup/installSoftware.cmd) script. The Chrome web browser extensions must be installed manually.
 
 ## JavaScript
 **CSS:**
@@ -189,6 +188,7 @@ The following sites are very helpful.
 * [gitignore on GitHub](https://github.com/github/gitignore) A collection of useful .gitignore templates
 * [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
 * [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/featured)
+* [Plaintext Productivity](http://plaintext-productivity.net/)
 
 ## License
 Copyright (c) 2016 Marco Koch
