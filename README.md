@@ -3,8 +3,8 @@ I'm using the following environment for my front end development on Windows OS.
 
 :warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
 
-![Sublime editor](./doc/sublime.jpg)
-![Cmder](./doc/cmder.jpg)
+![Sublime editor](/doc/sublime.jpg)
+![Cmder](/doc/cmder.jpg)
 
 ## Alias
 The following command shortcuts are defined by the [alias.cmd](alias.cmd) script.
