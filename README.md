@@ -58,6 +58,18 @@ More information:
 ## Sublime
 I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 
+### Command shortcuts
+The following changes and fixed are applied.
+<table>
+<tr><td>Command</td><td>Description</td></tr>
+<tr><td>alt + m</td><td>Show markdown preview</td></tr>
+<tr><td>ctrl + b</td><td>Start a build</td></tr>
+<tr><td>ctrl + 7</td><td>Fix commenting under Windows OS</td></tr>
+<tr><td>ctrl + shift + 7</td><td>Fix commenting under Windows OS</td></tr>
+<tr><td>ctrl + v</td><td>Fix paste shortcut</td></tr>
+<tr><td>ctrl + shift + v</td><td>Fix paste with indent shortcut</td></tr>
+</table>
+6
 ### Sublime packages
 **Package Control for Sublime**
 * [Package Control](https://packagecontrol.io/installation)
@@ -95,45 +107,20 @@ I'm using [Sublime Text 3.x](http://www.sublimetext.com/) as source-code editor.
 * [Phix Color Schema](https://github.com/stuartherbert/sublime-phix-color-scheme)
 
 ### Configuration
-The Sublime configuration files are located in the `sublime` folder. It contains the user settings, key-bindings and Markdown configuration files.
+The Sublime configuration files are located in the `sublime` folder. It contains the user settings, key-bindings and Markdown configuration files. To install all the packages you have to first install [Package Control](https://packagecontrol.io/installation) and afterwards follow the installation instructions of the Sublime packages mentioned at their websites.
 
-## Software
-**CSS:**
-* [Bootstrap](http://getbootstrap.com/css/)
-* [Less](http://lesscss.org/)
-* [Sass](http://sass-lang.com/)
+## Windows Software
+I am often using the following Windows software mentioned below.
 
-**Framework:**
-* [Angular.js](https://angularjs.org/)
-* [React](https://facebook.github.io/react/)
-
-**Hybrid:**
-* [Cordova](https://cordova.apache.org/)
-* [Ionic](http://ionicframework.com/)
-
-**Package Manager:**
-* [Bower](http://bower.io/)
-* [Chocolatey](https://chocolatey.org/)
-
-**Scaffolding:**
-* [Yeoman](http://yeoman.io/)
-
-**Task Runner:**
-* [Grunt](http://gruntjs.com/)
-* [Gulp](http://gulpjs.com/)
-
-**Testing:**
-* [Karma](https://karma-runner.github.io)
-* [Protractor](https://angular.github.io/protractor/#/)
-
-**Tool:**
+**General:**
 * [AutoHotKey](https://www.autohotkey.com/) with [AutoCorrect](https://www.autohotkey.com/download/AutoCorrect.ahk) script
-* [Browsersync](http://www.browsersync.io/)
 * [Cmder](http://cmder.net/)
-* [Node.js](https://nodejs.org/)
-* [Node Version Manager (nvm) for Windows](https://github.com/coreybutler/nvm-windows)
 * [PlatinumSearcher](https://github.com/monochromegane/the_platinum_searcher)
 * [Sublime Text](http://www.sublimetext.com/)
+
+**Node:**
+* [Node.js](https://nodejs.org/)
+* [Node Version Manager (nvm) for Windows](https://github.com/coreybutler/nvm-windows)
 
 **Version Control:**
 * [Git](https://git-for-windows.github.io/)
@@ -159,7 +146,39 @@ The Sublime configuration files are located in the `sublime` folder. It contains
 * [Ruby](https://www.ruby-lang.org)
 
 #### Installation
-To automatically install all listed native Windows software, please install [Chocolatey](https://chocolatey.org/) and run [installSoftware.cmd](setup/installSoftware.cmd) script.
+To automatically install *all* listed native Windows software, please install [Chocolatey](https://chocolatey.org/) and run [installSoftware.cmd](setup/installSoftware.cmd) script.
+
+The Chrome web browser extensions must be installed manually.
+
+## JavaScript
+**CSS:**
+* [Bootstrap](http://getbootstrap.com/css/)
+* [Less](http://lesscss.org/)
+* [Sass](http://sass-lang.com/)
+
+**Framework:**
+* [Angular.js](https://angularjs.org/)
+* [React](https://facebook.github.io/react/)
+
+**Hybrid:**
+* [Cordova](https://cordova.apache.org/)
+* [Ionic](http://ionicframework.com/)
+
+**Package Manager:**
+* [Bower](http://bower.io/)
+* [Chocolatey](https://chocolatey.org/)
+
+**Scaffolding:**
+* [Yeoman](http://yeoman.io/)
+
+**Task Runner:**
+* [Grunt](http://gruntjs.com/)
+* [Gulp](http://gulpjs.com/)
+
+**Testing:**
+* [Browsersync](http://www.browsersync.io/)
+* [Karma](https://karma-runner.github.io)
+* [Protractor](https://angular.github.io/protractor/#/)
 
 ## Feedback
 Suggestions are [welcome](https://github.com/markoch/dotfiles/issues)!
