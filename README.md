@@ -134,9 +134,9 @@ I am often using the following Windows software.
 **Database:**
 * [MongoDB](https://www.mongodb.org/)
 
-**Paas (Platform as a Service):**
+**Platform as a Service:**
 * [Heroku](https://www.heroku.com/)
-* [IBM Blue Mix](https://de.wikipedia.org/wiki/Bluemix/)
+* [IBM Blue Mix](www.ibm.com/cloud-computing/bluemix/)
 * [mLab](https://www.mlab.com/)
 
 **Version Control:**
