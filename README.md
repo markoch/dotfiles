@@ -136,7 +136,7 @@ I am often using the following Windows software.
 
 **Platform as a Service:**
 * [Heroku](https://www.heroku.com/)
-* [IBM Blue Mix](www.ibm.com/cloud-computing/bluemix/)
+* [IBM Blue Mix](https://www.ibm.com/cloud-computing/bluemix/)
 * [mLab](https://www.mlab.com/)
 
 **Version Control:**
