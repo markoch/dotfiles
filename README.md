@@ -1,5 +1,5 @@
-# [Marco](https://github.com/markoch)'s Frontend Development Environment
-I'm using the following environment for my front end development on Windows OS.
+# [Marco](https://github.com/markoch)'s Fullstack JavaScript Development Environment
+I'm using the following environment for my fullstack JavaScript development on Windows OS.
 
 :warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
 
@@ -127,9 +127,17 @@ I am often using the following Windows software.
 * [PlatinumSearcher](https://github.com/monochromegane/the_platinum_searcher)
 * [Sublime Text](http://www.sublimetext.com/)
 
-**Node:**
+**Node.js:**
 * [Node.js](https://nodejs.org/)
 * [Node Version Manager (nvm) for Windows](https://github.com/coreybutler/nvm-windows)
+
+**Database:**
+* [MongoDB](https://www.mongodb.org/)
+
+**Paas (Platform as a Service):**
+* [Heroku](https://www.heroku.com/)
+* [IBM Blue Mix](https://de.wikipedia.org/wiki/Bluemix/)
+* [mLab](https://www.mlab.com/)
 
 **Version Control:**
 * [Git](https://git-for-windows.github.io/)
