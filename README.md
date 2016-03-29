@@ -171,6 +171,9 @@ To automatically install *all* listed native Windows software, please install [C
 * [Less](http://lesscss.org/)
 * [Sass](http://sass-lang.com/)
 
+**Database:**
+* [Mongoose](https://mongoosejs.com/)
+
 **Framework:**
 * [Angular.js](https://angularjs.org/)
 * [React](https://facebook.github.io/react/)
@@ -194,6 +197,9 @@ To automatically install *all* listed native Windows software, please install [C
 * [Browsersync](http://www.browsersync.io/)
 * [Karma](https://karma-runner.github.io)
 * [Protractor](https://angular.github.io/protractor/#/)
+
+**Web application framework:**
+* [Express](http://expressjs.com/)
 
 ## Feedback
 Suggestions are [welcome](https://github.com/markoch/dotfiles/issues)!
