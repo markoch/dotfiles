@@ -1,5 +1,5 @@
 # [Marco](https://github.com/markoch)'s Fullstack JavaScript Development Environment
-I'm using the following environment for my full stack web development on Windows OS.
+I'm using the following environment for my full stack web development on Windows OS
 
 :warning: **DO NOT** simply copy all the files if you do not understand what it does. :warning:
 
